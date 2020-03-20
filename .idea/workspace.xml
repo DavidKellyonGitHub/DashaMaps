@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16758b06-b4a0-4f1d-844b-c1c64f8682b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/main/DashaMapOneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/DashaMapOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/DashaMapThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/DashaMapTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/HashMapX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DashaMaps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DashaMaps.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/main/DashaMapOneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/main/DashaMapOneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/DashaMapOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/DashaMapOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +174,7 @@
       <workItem from="1565357963802" duration="4390000" />
       <workItem from="1584291892644" duration="1571000" />
       <workItem from="1584362824512" duration="8000" />
-      <workItem from="1584567773607" duration="13897000" />
+      <workItem from="1584567773607" duration="16521000" />
     </task>
     <servers />
   </component>
@@ -200,22 +190,22 @@
       <screen x="0" y="-1057" width="1920" height="1057" />
     </state>
     <state x="748" y="-662" width="423" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1280.709/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1584633628662" />
-    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1584724053573">
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1584724110891">
       <screen x="0" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1280.709/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1584724053573" />
-    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1584724053572">
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1280.709/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1584724110891" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1584724110891">
       <screen x="0" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1280.709/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1584724053572" />
-    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1584724053572">
+    <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1280.709/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1584724110891" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1584724110890">
       <screen x="0" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1280.709/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1584724053572" />
-    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1584724053573">
+    <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1280.709/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1584724110890" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1584724110891">
       <screen x="0" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1280.709/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1584724053573" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1280.709/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1584724110891" />
     <state width="1878" height="357" key="GridCell.Tab.1.bottom" timestamp="1584722609473">
       <screen x="0" y="-1057" width="1920" height="1057" />
     </state>
@@ -244,9 +234,9 @@
       <screen x="0" y="-1057" width="1920" height="1057" />
     </state>
     <state x="739" y="-795" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1280.709/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1584708975063" />
-    <state x="625" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1584723566618">
+    <state x="625" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1584725468500">
       <screen x="0" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="625" y="-822" width="670" height="676" key="search.everywhere.popup/0.23.1280.709/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1584723566618" />
+    <state x="625" y="-822" width="670" height="676" key="search.everywhere.popup/0.23.1280.709/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1584725468500" />
   </component>
 </project>

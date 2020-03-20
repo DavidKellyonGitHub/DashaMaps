@@ -4,6 +4,7 @@ import java.util.Locale;
 
 public class DashaMapOne implements HashMapX{
     private Node[] hashArray = new Node[0];
+    private int numOfNodes = 0;
 
     public DashaMapOne(){
         int counter = 0;
@@ -77,8 +78,15 @@ public class DashaMapOne implements HashMapX{
     }
 
     @Override
-    public void set(String key, String value) {
-
+    public void set(String key, String value) { {
+        Node newNode = new Node(null,key,value);
+            for (int i = 0;i<26;i++){
+                if (hashArray[i].getKey().equals(key.toCharArray()[0])){
+                    hashArray[i].setNextNode(newNode);
+                    break;
+                }
+            }
+        }
     }
 
     @Override

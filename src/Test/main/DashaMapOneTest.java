@@ -27,10 +27,16 @@ public class DashaMapOneTest {
 
     @Test
     public void addNodeToHashArray() {
+        DashaMapOne.Node testNode = new DashaMapOne().new Node(null,"testKey","testValue");
+        testMap.addNodeToHashArray(testNode);
+
+
     }
 
     @Test
     public void set() {
+        DashaMapOne.Node testNode;
+        testMap.set("testkey", "testValue");
 
     }
 
